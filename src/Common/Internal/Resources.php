@@ -179,7 +179,8 @@ class Resources
     const CONTENT_LENGTH                     = 'content-length';
     const CONTENT_LENGTH_NO_SPACE            = 'contentlength';
     const CONTENT_MD5                        = 'content-md5';
-    const CONTENT_TYPE                       = 'content-type';
+    const CONTENT_TYPE_LOWER_CASE            = 'content-type';
+    const CONTENT_TYPE                       = 'Content-Type';
     const CONTENT_ID                         = 'content-id';
     const CONTENT_RANGE                      = 'content-range';
     const CACHE_CONTROL                      = 'cache-control';
@@ -240,7 +241,7 @@ class Resources
     const BEARER = 'Bearer ';
 
     // Header values
-    const COMMON_SDK_VERSION                 = '1.5.0';
+    const COMMON_SDK_VERSION                 = '1.5.1';
     const INT32_MAX                          = 2147483647;
     const INT32_MIN                          = -2147483648;
 
