@@ -1,4 +1,6 @@
-# Microsoft Azure Storage Common PHP Client Library
+# Microsoft Azure Storage Common PHP Client Library (Deprecated)
+
+For more details on the retirement and alternatives to using this project, visit [Retirement notice: The Azure Storage PHP client libraries will be retired on 17 March 2024](https://aka.ms/AzStoragePHPSDKRetirement).
 
 This project provides a set of common PHP code shared by Azure Storage Blob, Table, Queue and File PHP client libraries. For how to access Microsoft Azure Storage services (blobs, tables, queues and files), please refer to the [Microsoft Azure Storage PHP Client Library](https://github.com/Azure/azure-storage-php). For documentation on how to host PHP applications on Microsoft Azure, please see the [Microsoft Azure PHP Developer Center](http://www.windowsazure.com/en-us/develop/php/).
 
